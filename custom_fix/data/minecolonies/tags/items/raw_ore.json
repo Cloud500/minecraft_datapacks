@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"mekanism:raw_uranium",
+		"galosphere:raw_silver",
+		"mekanism:raw_osmium",
+		"mekanism:raw_tin",
+		"mekanism:raw_lead",
+		"mekanism:raw_uranium",
+		"epicsamurai:aquamarine_ore",
+		"silentgear:bort_ore",
+		"allomancy:cadium_ore",
+		"allomancy:chromium_ore",
+		"evilcraft:dark_ore",
+		"epicsamurai:onyx_ore",
+		"epicsamurai:ruby_ore"
+	]
+}

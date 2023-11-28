@@ -1,0 +1,17 @@
+{
+    "type": "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:stick",
+            "count": 2
+        },
+		{
+            "item": "minecraft:cobblestone",
+            "count": 1
+        }
+    ],
+    "intermediate": "minecraft:air",
+    "result": "structurize:sceptergold",
+    "count": 1
+}

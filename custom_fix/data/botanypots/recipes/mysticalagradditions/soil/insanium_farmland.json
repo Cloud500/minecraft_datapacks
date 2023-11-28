@@ -1,0 +1,33 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": "mysticalagradditions:insanium_farmland"
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagradditions:insanium_farmland"
+  },
+  "display": {
+    "block": "mysticalagradditions:insanium_farmland"
+  },
+  "categories": [
+    "dirt",
+    "farmland",
+    "stone",
+    "mushroom",
+    "crimson",
+    "nylium",
+    "crimson_nylium",
+    "netherrack",
+    "nether",
+    "inferium",
+    "prudentium",
+    "tertium",
+    "imperium",
+    "supremium",
+    "insanium"
+  ],
+  "growthModifier": 5
+}
